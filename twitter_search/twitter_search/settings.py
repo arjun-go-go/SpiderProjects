@@ -144,6 +144,7 @@ ERROR_CODE_403 = 403
 ERROR_CODE_404 = 404
 
 TOKEN_URL = "http://127.0.0.1:8880/random"
+TOKEN_URL_INIT = "http://127.0.0.1:8881/init"
 PROXY_URL = "http://127.0.0.1:1080"
 API_URL = "http://127.0.0.1:8881/random"
 API_URL_INIT = "http://127.0.0.1:8881/init"
